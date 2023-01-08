@@ -21,28 +21,24 @@ You will need to have the following software installed on your machine:
 
 ```
   git clone https://github.com/Piccolo27/stock-tracking-app
-
 ```
 
 2. Navigate to the project directory:
 
 ```
 cd stock-tracking-app
-
 ```
 
 3. Install the necessary dependencies:
 
 ```
 npm install
-
 ```
 
 4. Start the development server:
 
 ```
 npm start
-
 ```
 
 This will launch the app in your default web browser. The development server will automatically reload the page whenever you make changes to the code.
